@@ -1,4 +1,4 @@
-if ((global.panic == 0) && (global.snickchallenge == 0))
+if ((global.panic == 0) && (global.snickchallenge == 0)) && !instance_exists(obj_spongeman)
 {
     if instance_exists(obj_pepperman)
     {

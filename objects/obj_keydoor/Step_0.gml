@@ -1,4 +1,4 @@
-if (((obj_player1.state == 0) || ((obj_player1.state == 69) || ((obj_player1.state == 70) || ((obj_player1.state == 91) || (obj_player1.state == 65))))) && ((sprite_index == spr_doorkey) && (obj_player1.key_up && ((global.key_inv == 1) && place_meeting(x, y, obj_player1)))))
+if (((obj_player1.state == 0) || ((obj_player1.state == 69) || ((obj_player1.state == 70) || ((obj_player1.state == 91) || (obj_player1.state == 65))))) && ((sprite_index == spr_doorkey) && (obj_player1.key_up && ((global.key_inv == 1) && place_meeting(x, y, obj_player1))))) && !instance_exists(obj_spongeman)
 {
     ds_list_add(global.saveroom, id)
     obj_player1.state = 64
@@ -36,7 +36,7 @@ if instance_exists(obj_player2)
 }
 with (obj_player)
 {
-    if (place_meeting(x, y, obj_keydoor) && ((other.sprite_index == spr_doorvisited) && (key_up && (((state == 0) || ((state == 69) || ((state == 70) || (state == 91)))) && ((y == (other.y + 50)) && ((!instance_exists(obj_noisesatellite)) && ((!instance_exists(obj_fadeout)) && ((state != 78) && ((state != 64) && (state != 61))))))))))
+    if (place_meeting(x, y, obj_keydoor) && ((other.sprite_index == spr_doorvisited) && (key_up && (((state == 0) || ((state == 69) || ((state == 70) || (state == 91)))) && ((y == (other.y + 50)) && ((!instance_exists(obj_noisesatellite)) && ((!instance_exists(obj_fadeout)) && ((state != 78) && ((state != 64) && (state != 61)))))))))) && !instance_exists(obj_spongeman)
     {
         mach2 = 0
         image_index = 0
