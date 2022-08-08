@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 0.13,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_scream10",
-  "duration": 0.0,
+  "duration": 0.905578,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",
