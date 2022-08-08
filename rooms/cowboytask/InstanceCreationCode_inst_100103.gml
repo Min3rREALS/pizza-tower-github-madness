@@ -1,0 +1,1 @@
+targetRoom = 6

@@ -1,0 +1,2 @@
+baddieID = 0
+
