@@ -11,3 +11,12 @@ if place_meeting(x, y, obj_doorD)
 if place_meeting(x, y, obj_doorE)
     targetDoor = "E"
 
+if instance_exists(obj_spongeman)
+{
+	with instance_create(x,y,obj_solid)
+	{
+		image_xscale = other.image_xscale
+		image_yscale = other.image_yscale * 2
+	}
+	instance_destroy()
+}
