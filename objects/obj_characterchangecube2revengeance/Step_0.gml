@@ -1,4 +1,4 @@
-if (obj_player1.character == "N")
+if (obj_player1.character == "S")
     instance_destroy()
 
 if (place_meeting(x, y, obj_player) && (activated == 0))
@@ -8,7 +8,7 @@ if (place_meeting(x, y, obj_player) && (activated == 0))
         if ((character == "P") && (other.activated == 0))
         {
             x = other.x
-            character = "N"
+            character = "S"
             other.activated = 1
             vsp = 1
             other.alarm[0] = 50
@@ -37,10 +37,10 @@ if (place_meeting(x, y, obj_player) && (activated == 0))
 {
     with (obj_player1)
     {
-        if ((character == "S") && (other.activated == 0))
+        if ((character == "N") && (other.activated == 0))
         {
             x = other.x
-            character = "N"
+            character = "S"
             other.activated = 1
             vsp = 1
             other.alarm[0] = 50

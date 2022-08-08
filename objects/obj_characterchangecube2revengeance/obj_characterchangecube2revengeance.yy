@@ -33,7 +33,7 @@
     "path": "folders/Objects/demoevents/sage.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_characterchangecube",
+  "name": "obj_characterchangecube2revengeance",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -196,6 +196,7 @@
     {"id":{"name":"spr_peppermanlow_hurt","path":"sprites/spr_peppermanlow_hurt/spr_peppermanlow_hurt.yy",},"order":9,},
     {"id":{"name":"spr_peppermanlow_charge","path":"sprites/spr_peppermanlow_charge/spr_peppermanlow_charge.yy",},"order":11,},
     {"id":{"name":"spr_peppermanlow","path":"sprites/spr_peppermanlow/spr_peppermanlow.yy",},"order":13,},
+    {"id":{"name":"obj_characterchangecube2revengeance","path":"objects/obj_characterchangecube2revengeance/obj_characterchangecube2revengeance.yy",},"order":14,},
     {"id":{"name":"spr_pepperman","path":"sprites/spr_pepperman/spr_pepperman.yy",},"order":15,},
     {"id":{"name":"spr_peppermanmid_stun","path":"sprites/spr_peppermanmid_stun/spr_peppermanmid_stun.yy",},"order":17,},
     {"id":{"name":"spr_peppermanmid_hurt","path":"sprites/spr_peppermanmid_hurt/spr_peppermanmid_hurt.yy",},"order":19,},
