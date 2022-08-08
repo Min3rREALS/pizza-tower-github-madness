@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 0.75,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_rollgetup",
-  "duration": 0.0,
+  "duration": 0.754649,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",

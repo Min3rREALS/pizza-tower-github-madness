@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -10,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sfx_mach1",
-  "duration": 0.0,
+  "soundFile": "sfx_mach1.ogg",
+  "duration": 1.48898,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",
