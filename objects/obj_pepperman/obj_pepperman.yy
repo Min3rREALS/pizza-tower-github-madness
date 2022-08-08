@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_pepperman",
     "path": "sprites/spr_pepperman/spr_pepperman.yy",
