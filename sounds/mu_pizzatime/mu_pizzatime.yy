@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "mu_pizzatime",
-  "duration": 0.0,
+  "duration": 231.63292,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",
