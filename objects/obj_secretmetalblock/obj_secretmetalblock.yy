@@ -4,7 +4,7 @@
     "path": "sprites/spr_metalb/spr_metalb.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
