@@ -1,5 +1,3 @@
-if (obj_player.character == "S")
-    instance_destroy()
 if (x != obj_player1.x)
     image_xscale = (-sign((x - obj_player1.x)))
 if place_meeting(x, y, obj_player)
@@ -16,19 +14,19 @@ if place_meeting(x, y, obj_player)
             if (other.dialogue == 0)
                 message = ""
             if (other.dialogue == 1)
-                message = "BOO!"
+                message = "SNNFDONOSCNSBDIFSFSZFRXDRGXDTGDXFGDXFGDFGT"
             if (other.dialogue == 2)
-                message = "HAHA DONT WORRY IM NOT DEAD YET"
+                message = "EFSKGFSKRFGKSUFGXVBMXHBVRSGFRLAELAOSRGFSFHOSI"
             if (other.dialogue == 3)
-                message = "HERE IS AN HARDER VERSION OF PIZZASCAPE"
+                message = "YSGFUKYCFAGDRCUREGYSFKGRLGZKGCDVUGSDFRYUFGREYUF"
             if (other.dialogue == 4)
-                message = "THIS VERSION INCLUDES DECORATIONS"
+                message = "WYGERFUKYREWGFKUYGKCUYGAUWERFKYGREUKFYGUYGDRWERFE"
             if (other.dialogue == 5)
-                message = "ALL MADE BY THE PIZZA TOWER DISCORD"
+                message = "ADGFYGCYKADGFRCKAGCRJVHMXHCYKREGUKGSDFUKGGRAYUFRKSIAYUFVG"
             if (other.dialogue == 6)
-                message = "I HOPE YOU ENJOY THIS SHORT LEVEL"
+                message = "RWGF8GWYRF8GSFHGISBFVKGXGVKIUGEURWIUGRWFGIGFGFGFGFGFGFSKDFGFYSGDYYERUSGF"
             if (other.dialogue == 7)
-                message = "AND HAPPY HALLOWEEN!"
+                message = "URYGFKEDYAJEGASDJYUGKUSYDCVFSMDJZFCVDAHGFAKEGFEWAFKEGADKGFYKSDKUSYGDVKUSSKDKUYUD"
             if (other.dialogue == 8)
                 message = " "
             showtext = 1
@@ -39,11 +37,11 @@ if place_meeting(x, y, obj_player)
             if (other.dialogue == 0)
                 message = ""
             if (other.dialogue == 1)
-                message = "CONGRATS!"
+                message = "SYDGFUKMRGRDVCKZDYXGFVKRUGSDFKR"
             if (other.dialogue == 2)
-                message = "THIS DEMO DOESNT HAVE MUCH MORE"
+                message = "ZSYDFGVFKURYGSDFKRIUASDUYGADKYSFGSKAYD"
             if (other.dialogue == 3)
-                message = "BUT YOU CAN TRY GETTING AN S RANK!"
+                message = "T"
             if (other.dialogue == 4)
                 message = " "
             showtext = 1
@@ -54,9 +52,9 @@ if place_meeting(x, y, obj_player)
             if (other.dialogue == 0)
                 message = ""
             if (other.dialogue == 1)
-                message = "ALL DONE!"
+                message = "YGSDFUKGADFYGADUCGFASDIUFCGRIEDGFRKR"
             if (other.dialogue == 2)
-                message = "SEE YOU NEXT DEMO!"
+                message = "ADSFERSADGFRSFUSAIFGKYGKUGKIUGHUKYGYF"
             if (other.dialogue == 3)
                 message = " "
             showtext = 1
