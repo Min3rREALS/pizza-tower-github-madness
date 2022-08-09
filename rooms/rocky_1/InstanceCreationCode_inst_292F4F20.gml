@@ -1,0 +1,1 @@
+targetRoom = rocky_2
