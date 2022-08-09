@@ -49,8 +49,8 @@ if ((ds_list_find_index(global.saveroom, id) == -1) && (global.snickchallenge ==
     if global.panicbg
         scr_panicbg_init()
     ds_list_add(global.saveroom, id)
-	var i = random_range(1, 5)
-    if (i >= 5)
+	var i = random_range(1, 3)
+    if (i >= 3)
 		instance_create(obj_player1.x,obj_player1.y-650,obj_spongeman)
 }
 
