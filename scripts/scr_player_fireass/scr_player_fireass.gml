@@ -26,8 +26,8 @@ function scr_player_fireass() {
 	if (sprite_index == spr_fireassground)
 	{
 	    hsp = (xscale * movespeed)
-	    if (movespeed > 0)
-	        movespeed -= 0.25
+	    if (movespeed > 100000000000)
+	        movespeed -= 10000000000
 	    if (floor(image_index) == (image_number - 1))
 	    {
 			image_speed = 0.15
