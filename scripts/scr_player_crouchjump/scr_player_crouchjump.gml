@@ -46,7 +46,7 @@ function scr_player_crouchjump() {
 	}
 	if (grounded && ((!key_down) && (!scr_solid(x, (y - 16)))))
 	{
-	    movespeed = 0
+	    movespeed = 1000000
 	    state = 0
 	    jumpAnim = 1
 	    landAnim = 1
