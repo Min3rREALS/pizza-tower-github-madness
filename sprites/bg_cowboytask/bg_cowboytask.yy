@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 1,
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
@@ -24,7 +24,7 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8b9ff48a-57e6-49b5-8c32-44b10dc1922e","path":"sprites/bg_cowboytask/bg_cowboytask.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+    {"compositeImage":{"FrameId":{"name":"ram ranch","path":"sprites/bg_cowboytask/bg_cowboytask.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"8b9ff48a-57e6-49b5-8c32-44b10dc1922e","path":"sprites/bg_cowboytask/bg_cowboytask.yy",},"LayerId":{"name":"30d613b3-8a38-48fa-9cbf-7cd321626b48","path":"sprites/bg_cowboytask/bg_cowboytask.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"bg_cowboytask","path":"sprites/bg_cowboytask/bg_cowboytask.yy",},"resourceVersion":"1.0","name":"8b9ff48a-57e6-49b5-8c32-44b10dc1922e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
