@@ -1201,6 +1201,7 @@
     {"id":{"name":"tile_factory","path":"sprites/tile_factory/tile_factory.yy",},"order":5,},
     {"id":{"name":"bg_factory1","path":"sprites/bg_factory1/bg_factory1.yy",},"order":7,},
     {"id":{"name":"bg_factory1escape","path":"sprites/bg_factory1escape/bg_factory1escape.yy",},"order":9,},
+    {"id":{"name":"Sprite1497","path":"sprites/Sprite1497/Sprite1497.yy",},"order":0,},
     {"id":{"name":"bg_factory2","path":"sprites/bg_factory2/bg_factory2.yy",},"order":11,},
     {"id":{"name":"bg_factory2escape","path":"sprites/bg_factory2escape/bg_factory2escape.yy",},"order":13,},
     {"id":{"name":"tile_bigrocks","path":"sprites/tile_bigrocks/tile_bigrocks.yy",},"order":1,},
@@ -1372,6 +1373,7 @@
     {"id":{"name":"spr_halloweencollectibles3","path":"sprites/spr_halloweencollectibles3/spr_halloweencollectibles3.yy",},"order":5,},
     {"id":{"name":"spr_halloweencollectibles4","path":"sprites/spr_halloweencollectibles4/spr_halloweencollectibles4.yy",},"order":7,},
     {"id":{"name":"spr_halloweencollectibles5","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"order":9,},
+    {"id":{"name":"wega_room1","path":"rooms/wega_room1/wega_room1.yy",},"order":0,},
     {"id":{"name":"spr_halloweenspinningpizza","path":"sprites/spr_halloweenspinningpizza/spr_halloweenspinningpizza.yy",},"order":11,},
     {"id":{"name":"spr_halloweensmallblock","path":"sprites/spr_halloweensmallblock/spr_halloweensmallblock.yy",},"order":1,},
     {"id":{"name":"spr_halloweensmallblockescape","path":"sprites/spr_halloweensmallblockescape/spr_halloweensmallblockescape.yy",},"order":3,},
@@ -2437,6 +2439,7 @@
     {"roomId":{"name":"golf_roomportal","path":"rooms/golf_roomportal/golf_roomportal.yy",},},
     {"roomId":{"name":"golf_roomtreasure","path":"rooms/golf_roomtreasure/golf_roomtreasure.yy",},},
     {"roomId":{"name":"characterselect","path":"rooms/characterselect/characterselect.yy",},},
+    {"roomId":{"name":"wega_room1","path":"rooms/wega_room1/wega_room1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -2615,6 +2618,8 @@
     {"folderPath":"folders/Extensions.yy","order":23,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sequences.yy","order":1,"resourceVersion":"1.0","name":"Sequences","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Animation Curves.yy","order":1,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms/wega.yy","order":35,"resourceVersion":"1.0","name":"wega","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/tilesets/wega.yy","order":55,"resourceVersion":"1.0","name":"wega","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

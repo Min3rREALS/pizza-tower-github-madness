@@ -4,7 +4,7 @@
     "path": "sprites/spr_slope/spr_slope.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
