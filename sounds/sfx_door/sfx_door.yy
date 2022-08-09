@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 0.54,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_door",
-  "duration": 0.0,
+  "duration": 1.93161,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",

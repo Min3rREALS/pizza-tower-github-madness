@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -10,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sfx_pephurt",
-  "duration": 0.0,
+  "soundFile": "sfx_pephurt.wav",
+  "duration": 0.360636,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",

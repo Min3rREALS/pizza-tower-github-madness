@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_level100percent",
-  "duration": 0.0,
+  "duration": 5.619252,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",

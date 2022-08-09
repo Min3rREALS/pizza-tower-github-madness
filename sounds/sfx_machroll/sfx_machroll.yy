@@ -11,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sfx_machroll",
-  "duration": 3.161973,
+  "soundFile": "sfx_machroll.wav",
+  "duration": 12.494218,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",

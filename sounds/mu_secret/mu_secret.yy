@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": true,
@@ -10,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "mu_secret",
-  "duration": 0.0,
+  "soundFile": "mu_secret.wav",
+  "duration": 227.76297,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",

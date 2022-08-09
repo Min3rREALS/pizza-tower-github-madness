@@ -221,6 +221,7 @@
     {"id":{"name":"spr_robot_stun","path":"sprites/spr_robot_stun/spr_robot_stun.yy",},"order":11,},
     {"id":{"name":"spr_cheeserobot_attack","path":"sprites/spr_cheeserobot_attack/spr_cheeserobot_attack.yy",},"order":13,},
     {"id":{"name":"spr_robot_attack","path":"sprites/spr_robot_attack/spr_robot_attack.yy",},"order":15,},
+    {"id":{"name":"mu_ogloc","path":"sounds/mu_ogloc/mu_ogloc.yy",},"order":61,},
     {"id":{"name":"spr_cheeserobot_walk","path":"sprites/spr_cheeserobot_walk/spr_cheeserobot_walk.yy",},"order":17,},
     {"id":{"name":"spr_robot_walk","path":"sprites/spr_robot_walk/spr_robot_walk.yy",},"order":19,},
     {"id":{"name":"spr_cheeserobot_idle","path":"sprites/spr_cheeserobot_idle/spr_cheeserobot_idle.yy",},"order":21,},

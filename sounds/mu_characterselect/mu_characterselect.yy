@@ -1,4 +1,5 @@
 {
+  "conversionMode": 0,
   "compression": 1,
   "volume": 3.0,
   "preload": true,
@@ -11,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "mu_characterselect",
-  "duration": 0.0,
+  "duration": 137.95265,
   "parent": {
     "name": "music",
     "path": "folders/Sounds/music.yy",
