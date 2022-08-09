@@ -348,6 +348,7 @@
     {"id":{"name":"spr_player_shotgunjump1","path":"sprites/spr_player_shotgunjump1/spr_player_shotgunjump1.yy",},"order":25,},
     {"id":{"name":"spr_player_shotgunjump2","path":"sprites/spr_player_shotgunjump2/spr_player_shotgunjump2.yy",},"order":27,},
     {"id":{"name":"spr_player_shotgunjump3","path":"sprites/spr_player_shotgunjump3/spr_player_shotgunjump3.yy",},"order":29,},
+    {"id":{"name":"rocky_1","path":"rooms/rocky_1/rocky_1.yy",},"order":0,},
     {"id":{"name":"spr_player_shotgun","path":"sprites/spr_player_shotgun/spr_player_shotgun.yy",},"order":31,},
     {"id":{"name":"spr_shotgun_suplexdash","path":"sprites/spr_shotgun_suplexdash/spr_shotgun_suplexdash.yy",},"order":33,},
     {"id":{"name":"spr_shotgun_crawl","path":"sprites/spr_shotgun_crawl/spr_shotgun_crawl.yy",},"order":35,},
@@ -2440,6 +2441,7 @@
     {"roomId":{"name":"golf_roomtreasure","path":"rooms/golf_roomtreasure/golf_roomtreasure.yy",},},
     {"roomId":{"name":"characterselect","path":"rooms/characterselect/characterselect.yy",},},
     {"roomId":{"name":"strongcold_pizzamart","path":"rooms/strongcold_pizzamart/strongcold_pizzamart.yy",},},
+    {"roomId":{"name":"rocky_1","path":"rooms/rocky_1/rocky_1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":2,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -2619,6 +2621,7 @@
     {"folderPath":"folders/Sequences.yy","order":1,"resourceVersion":"1.0","name":"Sequences","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Animation Curves.yy","order":0,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/tilesets/wega.yy","order":55,"resourceVersion":"1.0","name":"wega","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms/rocky.yy","order":17,"resourceVersion":"1.0","name":"rocky","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
