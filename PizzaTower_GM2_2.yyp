@@ -466,7 +466,6 @@
     {"id":{"name":"spr_player_chainsaw","path":"sprites/spr_player_chainsaw/spr_player_chainsaw.yy",},"order":197,},
     {"id":{"name":"spr_player_facestomphit","path":"sprites/spr_player_facestomphit/spr_player_facestomphit.yy",},"order":199,},
     {"id":{"name":"spr_player_facestomp","path":"sprites/spr_player_facestomp/spr_player_facestomp.yy",},"order":201,},
-    {"id":{"name":"obj_fucking","path":"objects/obj_fucking/obj_fucking.yy",},"order":28,},
     {"id":{"name":"spr_player_mach4","path":"sprites/spr_player_mach4/spr_player_mach4.yy",},"order":203,},
     {"id":{"name":"spr_player_dead","path":"sprites/spr_player_dead/spr_player_dead.yy",},"order":205,},
     {"id":{"name":"spr_player_timesup","path":"sprites/spr_player_timesup/spr_player_timesup.yy",},"order":207,},
