@@ -2167,6 +2167,7 @@
     {"id":{"name":"obj_dresser","path":"objects/obj_dresser/obj_dresser.yy",},"order":1,},
     {"id":{"name":"obj_presentbox","path":"objects/obj_presentbox/obj_presentbox.yy",},"order":1,},
     {"id":{"name":"obj_iceblockminiboss","path":"objects/obj_iceblockminiboss/obj_iceblockminiboss.yy",},"order":3,},
+    {"id":{"name":"sfx_nothing","path":"sounds/sfx_nothing/sfx_nothing.yy",},"order":142,},
     {"id":{"name":"obj_santanoise","path":"objects/obj_santanoise/obj_santanoise.yy",},"order":5,},
     {"id":{"name":"obj_santasleight","path":"objects/obj_santasleight/obj_santasleight.yy",},"order":7,},
     {"id":{"name":"obj_santasleight2","path":"objects/obj_santasleight2/obj_santasleight2.yy",},"order":9,},
