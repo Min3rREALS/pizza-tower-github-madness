@@ -11,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sfx_explosion",
-  "duration": 1.155215,
+  "soundFile": "sfx_explosion.mp3",
+  "duration": 2.76898,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",
