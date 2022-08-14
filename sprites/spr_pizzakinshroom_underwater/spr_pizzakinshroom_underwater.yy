@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 2,
+  "bbox_left": 1,
   "bbox_right": 31,
-  "bbox_top": 21,
-  "bbox_bottom": 63,
+  "bbox_top": 1,
+  "bbox_bottom": 34,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 32,
-  "height": 64,
+  "width": 33,
+  "height": 35,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,31 +24,31 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"24b1ec51-d8b6-427d-9eff-ffbc9bec4b42","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"24b1ec51-d8b6-427d-9eff-ffbc9bec4b42","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"326a4fa8-b331-4e55-b206-c276cde6994e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"24b1ec51-d8b6-427d-9eff-ffbc9bec4b42","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a152ed34-48b6-4f98-ba1e-e0783f0be361","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a152ed34-48b6-4f98-ba1e-e0783f0be361","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"326a4fa8-b331-4e55-b206-c276cde6994e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"a152ed34-48b6-4f98-ba1e-e0783f0be361","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b5c64964-b522-46b3-a259-d055d1bb9e95","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b5c64964-b522-46b3-a259-d055d1bb9e95","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"326a4fa8-b331-4e55-b206-c276cde6994e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"b5c64964-b522-46b3-a259-d055d1bb9e95","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"69de97b1-ad6f-473a-bc94-8fb293e1464d","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"69de97b1-ad6f-473a-bc94-8fb293e1464d","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"326a4fa8-b331-4e55-b206-c276cde6994e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"69de97b1-ad6f-473a-bc94-8fb293e1464d","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"2bb01970-a0c4-4db5-9e2f-723a6859809c","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2bb01970-a0c4-4db5-9e2f-723a6859809c","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"326a4fa8-b331-4e55-b206-c276cde6994e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"2bb01970-a0c4-4db5-9e2f-723a6859809c","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a35d42cc-2804-4052-bd1e-d35fa2d31302","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a35d42cc-2804-4052-bd1e-d35fa2d31302","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"326a4fa8-b331-4e55-b206-c276cde6994e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"a35d42cc-2804-4052-bd1e-d35fa2d31302","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9c1dbd16-aec5-44a5-9909-801eafea6bcb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9c1dbd16-aec5-44a5-9909-801eafea6bcb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"50ecb804-b556-4f5a-a747-a302ca4f4fbb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"9c1dbd16-aec5-44a5-9909-801eafea6bcb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7c1522a1-31ca-4e21-a978-63e3be3111f3","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7c1522a1-31ca-4e21-a978-63e3be3111f3","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"50ecb804-b556-4f5a-a747-a302ca4f4fbb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"7c1522a1-31ca-4e21-a978-63e3be3111f3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c724c92a-a452-450b-860d-c3b0874e8476","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c724c92a-a452-450b-860d-c3b0874e8476","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"50ecb804-b556-4f5a-a747-a302ca4f4fbb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"c724c92a-a452-450b-860d-c3b0874e8476","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04ebda8d-f0bd-4861-8fea-a5754ed471fc","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04ebda8d-f0bd-4861-8fea-a5754ed471fc","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"50ecb804-b556-4f5a-a747-a302ca4f4fbb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"04ebda8d-f0bd-4861-8fea-a5754ed471fc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3561aed4-6348-45b7-9240-ec2ec5249b10","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3561aed4-6348-45b7-9240-ec2ec5249b10","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"50ecb804-b556-4f5a-a747-a302ca4f4fbb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"3561aed4-6348-45b7-9240-ec2ec5249b10","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"939f3b1d-a652-4462-9f68-a103acdcad1e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"939f3b1d-a652-4462-9f68-a103acdcad1e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"LayerId":{"name":"50ecb804-b556-4f5a-a747-a302ca4f4fbb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","name":"939f3b1d-a652-4462-9f68-a103acdcad1e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 1.0,
-    "playbackSpeedType": 1,
+    "playbackSpeed": 20.0,
+    "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
     "length": 6.0,
@@ -56,15 +56,15 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b00c7b0b-8073-4d73-be88-0b73cf67c323","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"24b1ec51-d8b6-427d-9eff-ffbc9bec4b42","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"a0536c5e-9c29-4377-8975-d1d15bd34b31","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a152ed34-48b6-4f98-ba1e-e0783f0be361","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"4f46c68a-088a-4a31-8711-2465ffc8f855","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b5c64964-b522-46b3-a259-d055d1bb9e95","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"ae6733a3-5b1d-4b2d-810b-e3a4a9f190e4","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"69de97b1-ad6f-473a-bc94-8fb293e1464d","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"303bd6ca-8923-47ad-911e-2d8a805f8e40","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2bb01970-a0c4-4db5-9e2f-723a6859809c","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"b4e94b53-7596-440c-a03f-3143ef6c3667","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a35d42cc-2804-4052-bd1e-d35fa2d31302","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"20ee592d-367c-4b64-b8b1-a2b2ce3f92dd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9c1dbd16-aec5-44a5-9909-801eafea6bcb","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"fecae9c1-f422-4f7f-acb7-e6068ada492f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7c1522a1-31ca-4e21-a978-63e3be3111f3","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"94bd39fe-cab0-4c44-9e92-44cc3b4d1090","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c724c92a-a452-450b-860d-c3b0874e8476","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"25b3af83-7ab7-4385-804e-47dadaa97ac5","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04ebda8d-f0bd-4861-8fea-a5754ed471fc","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"227358af-c812-429e-ada5-84fb79c7fdc0","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3561aed4-6348-45b7-9240-ec2ec5249b10","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"35467a8c-e544-45f5-8f77-d13e3218873c","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"939f3b1d-a652-4462-9f68-a103acdcad1e","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
-    "visibleRange": {"x":0.0,"y":0.0,},
+    "visibleRange": null,
     "lockOrigin": false,
     "showBackdrop": true,
     "showBackdropImage": false,
@@ -75,17 +75,17 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 16,
-    "yorigin": 32,
+    "yorigin": 17,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_pizzakinshroom_underwater","path":"sprites/spr_pizzakinshroom_underwater/spr_pizzakinshroom_underwater.yy",},
     "resourceVersion": "1.4",
-    "name": "",
+    "name": "spr_pizzakinshroom_underwater",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"326a4fa8-b331-4e55-b206-c276cde6994e","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"50ecb804-b556-4f5a-a747-a302ca4f4fbb","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
