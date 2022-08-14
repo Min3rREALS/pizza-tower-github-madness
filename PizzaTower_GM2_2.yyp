@@ -597,6 +597,7 @@
     {"id":{"name":"spr_player_walljumpstart","path":"sprites/spr_player_walljumpstart/spr_player_walljumpstart.yy",},"order":459,},
     {"id":{"name":"spr_player_walljumpend","path":"sprites/spr_player_walljumpend/spr_player_walljumpend.yy",},"order":461,},
     {"id":{"name":"spr_player_mach3hit","path":"sprites/spr_player_mach3hit/spr_player_mach3hit.yy",},"order":463,},
+    {"id":{"name":"Sprite1500","path":"sprites/Sprite1500/Sprite1500.yy",},"order":17,},
     {"id":{"name":"spr_player_mach3hitwall","path":"sprites/spr_player_mach3hitwall/spr_player_mach3hitwall.yy",},"order":465,},
     {"id":{"name":"spr_player_uppercutfinishingblow","path":"sprites/spr_player_uppercutfinishingblow/spr_player_uppercutfinishingblow.yy",},"order":467,},
     {"id":{"name":"spr_player_fightball","path":"sprites/spr_player_fightball/spr_player_fightball.yy",},"order":469,},
