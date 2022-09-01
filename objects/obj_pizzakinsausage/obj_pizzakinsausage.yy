@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_pizzakinmask",
     "path": "sprites/spr_pizzakinmask/spr_pizzakinmask.yy",

@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_piraneapple",
     "path": "sprites/spr_piraneapple/spr_piraneapple.yy",

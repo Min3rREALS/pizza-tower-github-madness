@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_boxcrusher_idle",
     "path": "sprites/spr_boxcrusher_idle/spr_boxcrusher_idle.yy",

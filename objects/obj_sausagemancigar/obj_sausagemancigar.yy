@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_cigar_idle",
     "path": "sprites/spr_cigar_idle/spr_cigar_idle.yy",

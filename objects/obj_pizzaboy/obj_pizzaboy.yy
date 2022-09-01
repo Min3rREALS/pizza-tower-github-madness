@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_slimehitbox",
     "path": "sprites/spr_slimehitbox/spr_slimehitbox.yy",

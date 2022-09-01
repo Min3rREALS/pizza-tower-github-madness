@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_grabbiehand_idle",
     "path": "sprites/spr_grabbiehand_idle/spr_grabbiehand_idle.yy",

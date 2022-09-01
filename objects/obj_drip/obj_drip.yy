@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_drip2",
     "path": "sprites/spr_drip2/spr_drip2.yy",

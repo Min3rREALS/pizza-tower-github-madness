@@ -11,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sfx_collectgiantpizza.wav",
-  "duration": 0.835125,
+  "soundFile": "sfx_collectgiantpizza.mp3",
+  "duration": 2.76898,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",
