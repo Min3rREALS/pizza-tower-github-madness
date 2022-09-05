@@ -87,6 +87,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_noisey","path":"objects/obj_noisey/obj_noisey.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1440.0,"y":672.0,"resourceVersion":"1.0","name":"inst_132C947F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_noisey","path":"objects/obj_noisey/obj_noisey.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1408.0,"y":352.0,"resourceVersion":"1.0","name":"inst_3775A5D5","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_noisey","path":"objects/obj_noisey/obj_noisey.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":384.0,"resourceVersion":"1.0","name":"inst_2461780D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_shotgun","path":"objects/obj_shotgun/obj_shotgun.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1440.0,"y":416.0,"resourceVersion":"1.0","name":"inst_2EAEE80","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Compatibility_Instances_Depth_0","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tileset_medieval_tileset","path":"tilesets/tileset_medieval_tileset/tileset_medieval_tileset.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":79,"SerialiseHeight":32,"TileSerialiseData":[
 18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,
@@ -203,6 +204,7 @@
     {"name":"inst_132C947F","path":"rooms/medieval_1/medieval_1.yy",},
     {"name":"inst_3775A5D5","path":"rooms/medieval_1/medieval_1.yy",},
     {"name":"inst_2461780D","path":"rooms/medieval_1/medieval_1.yy",},
+    {"name":"inst_2EAEE80","path":"rooms/medieval_1/medieval_1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
