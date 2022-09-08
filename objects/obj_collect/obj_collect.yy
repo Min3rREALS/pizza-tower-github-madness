@@ -5,7 +5,6 @@
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": {
     "name": "spr_sausagecollect",
     "path": "sprites/spr_sausagecollect/spr_sausagecollect.yy",

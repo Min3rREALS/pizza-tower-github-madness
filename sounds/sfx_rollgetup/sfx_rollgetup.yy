@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_rollgetup",
-  "duration": 0.754649,
+  "duration": 0.0,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",

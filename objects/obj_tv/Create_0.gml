@@ -20,7 +20,3 @@ global.brank = 0
 global.crank = 0
 character = "PEPPINO"
 display_set_gui_size(960, 540)
-
-randommessage = "PIZZA TOWER STORIES SPONGEMAN"
-oldrandommessage = ""
-alarm[1] = 3600

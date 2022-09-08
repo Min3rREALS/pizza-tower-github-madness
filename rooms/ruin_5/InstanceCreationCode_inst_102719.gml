@@ -1,1 +1,1 @@
-content = obj_snickexe
+content = obj_pepgoblin

@@ -8,8 +8,8 @@ function scr_enemy_stun() {
 	{
 	    if ((thrown == 1) && (hp <= 0))
 	        instance_destroy()
-	    thrown = 1000
-	    grav = 0
+	    thrown = 0
+	    grav = 0.5
 	    hsp = 0
 	}
 	if place_meeting(x, (y + 1), obj_railh)

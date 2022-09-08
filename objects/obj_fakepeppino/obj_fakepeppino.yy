@@ -5,7 +5,6 @@
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": {
     "name": "spr_crouchmask",
     "path": "sprites/spr_crouchmask/spr_crouchmask.yy",

@@ -1,1 +1,1 @@
-content = obj_bomb
+content = obj_pizzagoblin

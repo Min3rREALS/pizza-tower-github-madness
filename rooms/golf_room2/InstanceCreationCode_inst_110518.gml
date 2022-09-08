@@ -1,3 +1,3 @@
-targetRoom = golf_room1
+targetRoom = 167
 target_x = 3968
 target_y = 402

@@ -4,8 +4,7 @@
     "path": "sprites/spr_fencer/spr_fencer.yy",
   },
   "solid": false,
-  "visible": false,
-  "managed": true,
+  "visible": true,
   "spriteMaskId": {
     "name": "spr_player_mask",
     "path": "sprites/spr_player_mask/spr_player_mask.yy",

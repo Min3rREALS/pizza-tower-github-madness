@@ -20,4 +20,3 @@ else if (global.miniboss == 1)
 if instance_exists(obj_pizzaball)
     draw_text(832, 300, string_hash_to_newline(string_hash_to_newline(((string(global.golfhit) + " ") + "GOLF HIT"))))
 
-draw_text(480, 220, string_hash_to_newline(randommessage))

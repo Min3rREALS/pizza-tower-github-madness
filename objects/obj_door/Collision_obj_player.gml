@@ -1,4 +1,4 @@
-if (!place_meeting(x, y, obj_doorblocked)) && !instance_exists(obj_spongeman)
+if (!place_meeting(x, y, obj_doorblocked))
 {
     with (other.id)
     {

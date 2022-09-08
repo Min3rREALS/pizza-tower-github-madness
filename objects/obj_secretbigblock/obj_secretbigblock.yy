@@ -4,8 +4,7 @@
     "path": "sprites/sprite1030/sprite1030.yy",
   },
   "solid": false,
-  "visible": true,
-  "managed": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {

@@ -5,7 +5,6 @@
   },
   "solid": false,
   "visible": false,
-  "managed": true,
   "spriteMaskId": null,
   "persistent": true,
   "parentObjectId": null,

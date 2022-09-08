@@ -4,8 +4,7 @@
     "path": "sprites/spr_slimeidle/spr_slimeidle.yy",
   },
   "solid": false,
-  "visible": false,
-  "managed": true,
+  "visible": true,
   "spriteMaskId": {
     "name": "spr_slimehitbox",
     "path": "sprites/spr_slimehitbox/spr_slimehitbox.yy",

@@ -1,4 +1,4 @@
-if ((global.panic == 0) && (global.snickchallenge == 0)) && !instance_exists(obj_spongeman)
+if ((global.panic == 0) && (global.snickchallenge == 0))
 {
     if instance_exists(obj_pepperman)
     {
@@ -172,32 +172,6 @@ if ((global.panic == 0) && (global.snickchallenge == 0)) && !instance_exists(obj
                     scr_sound(mu_ruinremix)
                     audio_sound_set_track_position(global.music, fadeoff)
                     pausedmusic = mu_ruinremix
-                }
-            }
-        }
-    }
-	if (string_letters(roomname) == "rocky")
-    {
-        for (i = 0; i < 20; i++)
-        {
-            if ((roomname == ("rocky_" + string(i))) && (i <= 7))
-            {
-                if (!audio_is_playing(mu_rocky))
-                {
-                    audio_stop_all()
-                    scr_sound(mu_rocky)
-                    audio_sound_set_track_position(global.music, fadeoff)
-                    pausedmusic = mu_rocky
-                }
-            }
-            else if ((roomname == ("rocky_" + string(i))) && (i > 7))
-            {
-                if (!audio_is_playing(mu_rockychase))
-                {
-                    audio_stop_all()
-                    scr_sound(mu_rockychase)
-                    audio_sound_set_track_position(global.music, fadeoff)
-                    pausedmusic = mu_rockychase
                 }
             }
         }

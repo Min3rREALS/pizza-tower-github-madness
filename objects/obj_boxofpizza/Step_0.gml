@@ -1,4 +1,3 @@
-if !instance_exists(obj_spongeman)
 with (obj_player)
 {
     if (other.image_yscale == 1)

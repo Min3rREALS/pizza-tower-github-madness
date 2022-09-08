@@ -1,11 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_alien",
-    "path": "sprites/spr_alien/spr_alien.yy",
+    "name": "spr_snicknpc_idle",
+    "path": "sprites/spr_snicknpc_idle/spr_snicknpc_idle.yy",
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": {
     "name": "spr_snicknpc_idle",
     "path": "sprites/spr_snicknpc_idle/spr_snicknpc_idle.yy",

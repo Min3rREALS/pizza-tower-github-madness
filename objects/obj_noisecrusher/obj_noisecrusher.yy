@@ -5,7 +5,6 @@
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": {
     "name": "spr_noisecrusher_mask",
     "path": "sprites/spr_noisecrusher_mask/spr_noisecrusher_mask.yy",

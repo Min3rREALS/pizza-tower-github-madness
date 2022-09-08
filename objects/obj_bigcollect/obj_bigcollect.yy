@@ -5,7 +5,6 @@
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": {
     "name": "spr_pizzacollect1halloween",
     "path": "sprites/spr_pizzacollect1halloween/spr_pizzacollect1halloween.yy",

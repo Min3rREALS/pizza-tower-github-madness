@@ -1,11 +1,7 @@
 {
-  "spriteId": {
-    "name": "spr_null",
-    "path": "sprites/spr_null/spr_null.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,

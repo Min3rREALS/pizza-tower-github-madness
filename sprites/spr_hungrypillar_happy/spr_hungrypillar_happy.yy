@@ -27,6 +27,12 @@
     {"compositeImage":{"FrameId":{"name":"da786ec8-e80d-49e4-bc8c-928691b16890","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"da786ec8-e80d-49e4-bc8c-928691b16890","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":{"name":"437ed3d7-1c46-4a53-83a1-e673f1b2d932","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"da786ec8-e80d-49e4-bc8c-928691b16890","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f01dfc59-b7e2-4f8b-af42-f0fe01a8ec62","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f01dfc59-b7e2-4f8b-af42-f0fe01a8ec62","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":{"name":"437ed3d7-1c46-4a53-83a1-e673f1b2d932","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"f01dfc59-b7e2-4f8b-af42-f0fe01a8ec62","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4117a50f-1f04-46f2-8f71-840f732ab538","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4117a50f-1f04-46f2-8f71-840f732ab538","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"LayerId":{"name":"437ed3d7-1c46-4a53-83a1-e673f1b2d932","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","name":"4117a50f-1f04-46f2-8f71-840f732ab538","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_hungrypillar_happy","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},
@@ -36,15 +42,17 @@
     "playbackSpeedType": 1,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 3.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9a4cfa72-5e9e-47b9-99bd-ad9f8f2927a7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"da786ec8-e80d-49e4-bc8c-928691b16890","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"8b518c7f-baff-4ced-bc19-e46549feb587","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f01dfc59-b7e2-4f8b-af42-f0fe01a8ec62","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"6d31ebc8-691a-49f0-b167-47c426443df1","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4117a50f-1f04-46f2-8f71-840f732ab538","path":"sprites/spr_hungrypillar_happy/spr_hungrypillar_happy.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
-    "visibleRange": null,
+    "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
     "showBackdrop": true,
     "showBackdropImage": false,

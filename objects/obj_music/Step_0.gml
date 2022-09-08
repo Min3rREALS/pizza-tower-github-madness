@@ -1,14 +1,8 @@
-if ((!audio_is_playing(mu_pizzatime)) && ((global.panic == 1) && ((obj_pause.pause == 0) && (obj_camera.ded == 0)))) && !instance_exists(obj_spongeman)
+if ((!audio_is_playing(mu_pizzatime)) && ((global.panic == 1) && ((obj_pause.pause == 0) && (obj_camera.ded == 0))))
 {
     audio_stop_all()
     scr_sound(mu_pizzatime)
     pausedmusic = mu_pizzatime
-}
-else if instance_exists(obj_spongeman) && !audio_is_playing(mu_spongeman)
-{
-	audio_stop_all()
-    scr_sound(mu_spongeman)
-    pausedmusic = mu_spongeman
 }
 if ((global.miniboss == 0) && audio_is_playing(mu_miniboss))
     audio_stop_sound(mu_miniboss)
